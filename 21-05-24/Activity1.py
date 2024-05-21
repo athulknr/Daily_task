@@ -1,3 +1,5 @@
+# create an iterator that returns numbers starting with 1 and each sequence will increace by 1
+
 class x:
     def __iter__(self):
         self.n = 1

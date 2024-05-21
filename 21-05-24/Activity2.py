@@ -1,3 +1,5 @@
+# create a parent class vehicle with some 4 child class with the concept of polymorphism
+
 class Vehicle:
     def move(self):
         raise NotImplementedError("Subclasses must implement this method")
