@@ -1,3 +1,4 @@
+#print maximum & minimum speed
 class Vehicle:
     
     color = "White"
